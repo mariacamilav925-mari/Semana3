@@ -1,0 +1,22 @@
+pregunta7:
+respuesta:
+
+1:repositorio:
+Es el espacio o carpeta donde se guarda todos los archivos,el historial y
+las verciones de un proyecto. funciona como el lugar central donde se 
+almacena y organiza todo el trabajo, permitiendo acceder a cualquier 
+cambio realizado en el trabajo 
+
+
+2:commit:
+Es el registro o foto que se guarda de los cambios realizados en los
+archivo en un momento determinado. cada comit tiene un mensaje
+que explica que se modificò, creando un historial ordenado y 
+seguro de todo el avance del proyecto 
+
+
+3:push:
+Es el comandante que sirve para enviar o subir todos los cambios 
+guardados en los commits desde tu computador local asta el repositorio 
+remoto por ejemplo, en Github. de esta forma, el trabajo queda publicado 
+respaldado y compartido con otras personas 
