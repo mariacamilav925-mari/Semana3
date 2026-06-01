@@ -1,0 +1,12 @@
+pregunta3:
+respuesta:
+Es fundamental llevar un registro de cambios por que nos permite tener 
+el historial completo de todo lo que se ha modificado, cuando y por qué 
+Si aparece algún error o falla, podemos regresar a una versión anterior 
+que funcionaba bien sin perder todo el trabajo. Además, facilita mucho 
+el trabajo en equipo, ya que varias personas pueden editar archivos al
+mismo tiempo sin que se borre la información de otros. también sirve
+como respaldo de seguridad, ya que todo queda guardado y documentado.
+gracias a estos el desarrollo es mas ordenado seguro y profesional y
+cualquier persona puede entender como a evolucionando el proyecto 
+desde su inicio.
